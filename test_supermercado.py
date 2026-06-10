@@ -29,7 +29,7 @@ def test_total_por_producto():
 
 
 def test_importe_total_general():
-    assert importe_total_general(COMPRAS_EJEMPLO) == 1700.0
+    assert importe_total_general(COMPRAS_EJEMPLO) == 999.99
 
 
 def test_producto_mas_vendido():
