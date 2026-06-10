@@ -35,3 +35,5 @@ pytest -v
 Cada push y cada Pull Request hacia `main` ejecuta el pipeline, que instala las
 dependencias y corre los tests. La rama `main` está protegida: requiere Pull
 Request y que el pipeline pase antes de poder mergear.
+
+###Autor Juan Villa
