@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+temp_ordenado.csv
+GUIA_PASO_A_PASO.md
